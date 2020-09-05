@@ -113,6 +113,9 @@ a:hover, a:visited {
 	.row .col img {
 		float: left;
 	}
+	.row .col h2 {
+		text-align: center;
+	}
 /*==Float==*/
 #footer {
 	font-size: 85%;

@@ -103,12 +103,12 @@ a:hover, a:visited {
 	}
 	.row .col {
 		float: left;
-		width: 31%;
+		width: 33.3333%;
 		margin-right: 2em;
 	}
-	.row .col:last-child {
+/*	.row .col:last-child {
 		float:right;
-		margin-right: 0;
+		margin-right: 0; */
 	}
 	.row .col img {
 		float: left;

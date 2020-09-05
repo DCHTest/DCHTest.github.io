@@ -103,7 +103,7 @@ a:hover, a:visited {
 	}
 	.row .col {
 		float: left;
-		width: 33.3333%;
+		width: 33%;
 		margin-right: 2em;
 	}
 /*	.row .col:last-child {
